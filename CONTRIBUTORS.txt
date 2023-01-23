@@ -1,0 +1,3 @@
+The authors of the documents in this repository are:
+Pascale Hugon (pascale.hugon@oeaw.ac.at)
+Kevin Vose (kavose@wmu.edu)
