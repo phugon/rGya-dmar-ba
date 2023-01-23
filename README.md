@@ -1,6 +1,6 @@
 # rGya-dmar-ba
 
-Files related to the rGya dmar ba editing project
+Files related to the project "The dBu ma de kho na nyid of rGya dmar ba Byang chub grags (12th c.)"
 
 Project website: https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/the-dbu-ma-de-kho-na-nyid-of-rgya-dmar-ba-byang-chub-grags-12th-c/
 
