@@ -13,4 +13,4 @@ In a first step, our aim is to produce a critical edition and an English transla
 
 Earlier versions of the edition and translation that have been posted on the above-mentionned project website are stored in this GitHub repository under "Previous versions".
 
-The latest version of the documents posted on the above-mentionned website are stored in this GitHub repository under "Latest version".
+The latest version of the documents posted on the above-mentionned website (edition, translation, editorial conventions, and general outline) are stored in this GitHub repository under "Latest version".
